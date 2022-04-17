@@ -20,3 +20,12 @@ a{
     display: grid;
     gap: 2rem;
 }
+
+.divider{  
+    height: 1px;
+    background: linear-gradient(
+        270deg,
+        hsla(var(--hue), 36%, 57%, 1),
+        hsla(var(--hue), 65%, 88%, 0.34)
+    );
+}
