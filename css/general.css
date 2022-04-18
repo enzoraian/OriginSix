@@ -2,7 +2,7 @@
     margin: 0 1.5rem;
 }
 
-/***************/
+/*imagens flexíveis ao tamanho da tela*/
 img {
     width: 100%; /*manter a imagem sem vazar*/
     height: auto;
@@ -12,6 +12,7 @@ a{
     text-decoration: none;
 } 
 
+/*padding top e bottom em cada section*/
 .padding-sec{
     padding: 5rem 0;
 }
